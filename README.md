@@ -2,7 +2,7 @@
 <h3 align="center">💻 Fullstack Developer | 🎓 Software Engineering Undergraduate | 📚 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Passionate+Fullstack+Developer;Lifelong+Learner+%F0%9F%93%9A;Building+awesome+projects+everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Passionate+Fullstack+Developer;Lifelong+Learner+%F0%9F%93%9A;Building+awesome+projects" alt="Typing SVG" />
 </p>
 
 ---
